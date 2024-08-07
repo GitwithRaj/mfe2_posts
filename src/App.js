@@ -80,7 +80,7 @@ const App = () => {
         ))}
       </ul>
     </div>
-    <a href='http://localhost:3000/'>Users</a>
+    <a href='https://gitwithraj.github.io/mfe1_users/'>Users</a>
     </div>
   );
 };
